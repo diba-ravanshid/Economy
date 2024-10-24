@@ -1,2 +1,2 @@
 # Economy
-The Presentation of GAMS
+The Presentation of GAMS Tutorial
